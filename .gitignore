@@ -4,3 +4,4 @@
 **/BenchmarkDotNet.Artifacts/
 **/.vs/
 **/.idea/
+.vscode/
